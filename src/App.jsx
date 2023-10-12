@@ -20,7 +20,7 @@ const App = () => {
 
         <div className="content-wrapper">
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="Tea-site" element={<Home />} />
             <Route path="collections" element={<Collections />} />
             <Route path="Blog" element={<Blog />} />
             <Route path="contact" element={<Contact />} />

@@ -28,7 +28,7 @@ const NavBar = ({ cartItems }) => {
           onClick={handleClick}
         >
           <li>
-            <Link to="/">Home</Link>
+            <Link to="Tea-site">Home</Link>
           </li>
 
           <li>
@@ -50,11 +50,11 @@ const NavBar = ({ cartItems }) => {
         className={click ? "navbar-icons active" : "navbar-icons"}
         onClick={handleClick}
       >
-        <Link to="/">
+        <Link to="Tea-site">
           <AiOutlineSearch />
         </Link>
 
-        <Link to="/">
+        <Link to="Tea-site">
           <CiUser />
         </Link>
 

@@ -51,7 +51,7 @@ const Details = () => {
     <>
       <section className="details-container">
         <h3>
-          <Link to="/">
+          <Link to="Tea-site">
             HOME / <Link to="/collections">COLLECTIONS</Link>
             <span> / {selectedItem.type.toUpperCase()}</span>
           </Link>
@@ -147,7 +147,7 @@ export default Details;
 //   return (
 //     <section className="details-container">
 //       <h3>
-//         <Link to="/">
+//         <Link to="Tea-site">
 //           HOME / <Link to="/collections">COLLECTIONS</Link>
 //           <span> / {selectedItem.type.toUpperCase()}</span>
 //         </Link>

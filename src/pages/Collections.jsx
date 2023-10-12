@@ -22,7 +22,7 @@ const Collections = () => {
 
       <div className="collection">
         <h2>
-          <Link to="/">
+          <Link to="Tea-site">
             Home /
             <span>
               Collections {selectedCategory ? ` /${selectedCategory}` : ""}
@@ -101,7 +101,7 @@ export default Collections;
 
 //       <div className="collection">
 //         <h2>
-//           <Link to="/">
+//           <Link to="Tea-site">
 //             Home /
 //             <span>
 //               Collections {selectedCategory ? ` /${selectedCategory}` : ""}

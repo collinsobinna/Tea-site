@@ -23,7 +23,7 @@ const Blog = () => {
               fermentum posuere urna nec tincidunt praesent.
             </p>
 
-            <Link to="/">READ MORE</Link>
+            <Link to="Tea-site">READ MORE</Link>
           </div>
         </div>
 
@@ -40,7 +40,7 @@ const Blog = () => {
               fermentum posuere urna nec tincidunt praesent.
             </p>
 
-            <Link to="/">READ MORE</Link>
+            <Link to="Tea-site">READ MORE</Link>
           </div>
         </div>
 
